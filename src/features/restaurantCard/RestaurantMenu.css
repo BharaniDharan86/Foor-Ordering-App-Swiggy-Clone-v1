@@ -1,0 +1,71 @@
+.menu-info {
+  padding: 10px 30px;
+  max-width: 50%;
+  margin: 30px auto;
+}
+
+.menu-res-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #52525b;
+  font-size: 14px;
+  border-bottom: 1px solid #cbd5e1;
+}
+
+.menu-res-name {
+  color: #1f2937;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.menu-res-cuisines {
+  margin-top: 10px;
+}
+
+.menu-res-about {
+  display: flex;
+  gap: 3px;
+  margin-top: -20px;
+}
+
+.menu-res-ratings {
+  border: 1px solid #52525b;
+  height: fit-content;
+  padding: 4px 6px;
+  font-size: 14px;
+}
+
+.menu-res-avgRating {
+  color: green;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.star-icon {
+  color: green;
+  margin-right: 4px;
+}
+
+.menu-res-price-info {
+  display: flex;
+  color: #1f2937;
+  gap: 10px;
+  font-weight: bolder;
+  font-size: 18px;
+  text-transform: uppercase;
+  vertical-align: middle;
+  border-bottom: 1px solid #cbd5e1;
+}
+
+.icons {
+  color: #1f2937;
+  font-size: 18px;
+}
+
+.menu-res-price-info div {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
